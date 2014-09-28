@@ -7,8 +7,10 @@ Furthermore, the script is creating a backup of your existing installation and o
 
 # Usage 
 
+First of all, go to the [download page](http://www.jetbrains.com/phpstorm/download/) and download the newest version.
+
+
 ```
-# first of all, go to the [download page](http://www.jetbrains.com/phpstorm/download/) and download the newest version
 # simple install or update
 php phpstorm.php path/to/linux/php/version.tar.gz 
 
@@ -20,5 +22,6 @@ php phpstorm.php path/to/linux/php/version.tar.gz your_group_name
 # Version history
 
 * [1.0.1](https://github.com/stevleibelt/unix_phpstorm_manual_install/tree/1.0.0) - not released yet
+    * fixed broken link in readme
 * [1.0.0](https://github.com/stevleibelt/unix_phpstorm_manual_install/tree/1.0.0) - released at 28.09.2014
     * initial commit
